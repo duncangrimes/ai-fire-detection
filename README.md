@@ -13,7 +13,7 @@
 - [Kanban Board](https://vanderbilt365-my.sharepoint.com/personal/daniel_moyer_vanderbilt_edu/Lists/Fire%20Detection/AllItems.aspx?viewid=abb20dc8-8d62-4e84-b0cc-a5e494e4a15d&sw=bypass&bypassReason=abandoned&e=3:0c4369ef1e8248118e15dbaeb750a469&sharingv2=true&fromShare=true&at=9&CID=280d7da1-90d2-7000-b8e9-d5036e1da760&cidOR=SPO)
 
 ## Efficient and Compact Convolutional Neural Network Architectures for Non-temporal Real-time Fire Detection
-Source: https://github.com/duncangrimes/ai-fire-detection (available under MIT license)
+Source: https://github.com/NeelBhowmik/efficient-compact-fire-detection-cnn (available under MIT license)
 
 ### Instructions to run inference using pre-trained models:
 
